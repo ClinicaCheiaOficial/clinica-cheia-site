@@ -19,10 +19,10 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h1 {
+        h1, h2, h3 {
             color: #333;
         }
-        p {
+        p, li {
             color: #666;
             text-align: left;
         }
@@ -58,15 +58,30 @@
             max-width: 100%;
             border-radius: 10px;
         }
+        .testimonials {
+            background-color: #e9ecef;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .testimonial {
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #777;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
-            <img src="https://via.placeholder.com/200x50" alt="Logo Clínica Cheia">
+            <img src="logo.png" alt="Logo Clínica Cheia">
         </div>
         <div class="hero">
-            <img src="https://via.placeholder.com/800x400" alt="Clínica cheia de pacientes">
+            <img src="clinica-cheia.jpg" alt="Clínica cheia de pacientes">
         </div>
         <h1>Clínica Cheia Oficial - Lotamos a Agenda da Sua Clínica com Pacientes Qualificados de Forma Previsível e Sem Dor de Cabeça</h1>
         <h2>Mais Pacientes, Mais Faturamento, Sem Depender de Indicações</h2>
@@ -91,8 +106,11 @@
             <li>📊 <strong>Resultados Comprovados:</strong> Nossos clientes aumentam sua agenda em até 150% nos primeiros meses.</li>
             <li>📞 <strong>Suporte Personalizado:</strong> Acompanhamos sua clínica de perto para garantir sucesso contínuo.</li>
         </ul>
-        <h3>Casos de Sucesso</h3>
-        <p>Nossa estratégia já ajudou dezenas de clínicas a aumentarem sua agenda em mais de 150% em poucos meses.</p>
+        <div class="testimonials">
+            <h3>Casos de Sucesso</h3>
+            <p class="testimonial">"Graças à Clínica Cheia Oficial, minha clínica dobrou o faturamento em apenas 3 meses!" - Dr. João Silva</p>
+            <p class="testimonial">"Antes eu dependia apenas de indicações. Agora tenho pacientes novos toda semana!" - Dra. Mariana Souza</p>
+        </div>
         <h3>Perguntas Frequentes</h3>
         <p><strong>❓ Quanto preciso investir?</strong><br> "Nosso método se paga com poucos pacientes captados."</p>
         <p><strong>❓ Como saber se funciona para minha clínica?</strong><br> "Trabalhamos com estratégias testadas para garantir previsibilidade."</p>
@@ -100,6 +118,9 @@
         <h3>Quer Encher Sua Agenda?</h3>
         <p>📲 Clique abaixo e fale direto com nosso time:</p>
         <a href="https://wa.me/+5548999982392" class="cta-button">QUERO MAIS PACIENTES NA MINHA CLÍNICA</a>
+        <div class="footer">
+            © 2025 Clínica Cheia Oficial - Todos os direitos reservados.
+        </div>
     </div>
 </body>
 </html>
