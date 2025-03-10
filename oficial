@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Cheia Oficial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            text-align: left;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 20px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #218838;
+        }
+        ul {
+            text-align: left;
+            padding-left: 20px;
+        }
+        .header {
+            text-align: center;
+        }
+        .header img {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+        .hero {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .hero img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://via.placeholder.com/200x50" alt="Logo Clínica Cheia">
+        </div>
+        <div class="hero">
+            <img src="https://via.placeholder.com/800x400" alt="Clínica cheia de pacientes">
+        </div>
+        <h1>Clínica Cheia Oficial - Lotamos a Agenda da Sua Clínica com Pacientes Qualificados de Forma Previsível e Sem Dor de Cabeça</h1>
+        <h2>Mais Pacientes, Mais Faturamento, Sem Depender de Indicações</h2>
+        <p>Se você quer uma agenda cheia e um fluxo constante de pacientes qualificados, a Clínica Cheia Oficial é a solução ideal.</p>
+        <h3>O Que Sua Clínica Ganha?</h3>
+        <ul>
+            <li>✅ Pacientes novos todos os dias, sem depender de boca a boca</li>
+            <li>✅ Investimento com retorno previsível e garantido</li>
+            <li>✅ Você foca nos atendimentos, nós cuidamos do marketing</li>
+            <li>✅ Estratégia personalizada para o perfil da sua clínica</li>
+        </ul>
+        <h3>Como Funciona Nosso Método?</h3>
+        <ul>
+            <li>Criamos campanhas estratégicas para atrair os pacientes certos.</li>
+            <li>Filtramos os contatos e enviamos apenas os melhores para você.</li>
+            <li>Sua equipe agenda as consultas e você fatura mais.</li>
+            <li>Monitoramos e otimizamos continuamente para maximizar seus resultados.</li>
+        </ul>
+        <h3>Por Que Escolher a Clínica Cheia Oficial?</h3>
+        <ul>
+            <li>🚀 <strong>Especialistas em Tráfego para Clínicas:</strong> Sabemos como atrair pacientes de forma previsível.</li>
+            <li>📊 <strong>Resultados Comprovados:</strong> Nossos clientes aumentam sua agenda em até 150% nos primeiros meses.</li>
+            <li>📞 <strong>Suporte Personalizado:</strong> Acompanhamos sua clínica de perto para garantir sucesso contínuo.</li>
+        </ul>
+        <h3>Casos de Sucesso</h3>
+        <p>Nossa estratégia já ajudou dezenas de clínicas a aumentarem sua agenda em mais de 150% em poucos meses.</p>
+        <h3>Perguntas Frequentes</h3>
+        <p><strong>❓ Quanto preciso investir?</strong><br> "Nosso método se paga com poucos pacientes captados."</p>
+        <p><strong>❓ Como saber se funciona para minha clínica?</strong><br> "Trabalhamos com estratégias testadas para garantir previsibilidade."</p>
+        <p><strong>❓ E se não der certo?</strong><br> "Monitoramos e ajustamos constantemente suas campanhas para garantir os melhores resultados."</p>
+        <h3>Quer Encher Sua Agenda?</h3>
+        <p>📲 Clique abaixo e fale direto com nosso time:</p>
+        <a href="https://wa.me/+5548999982392" class="cta-button">QUERO MAIS PACIENTES NA MINHA CLÍNICA</a>
+    </div>
+</body>
+</html>
